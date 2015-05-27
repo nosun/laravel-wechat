@@ -1,9 +1,9 @@
 {
-    "name": "overtrue/laravel-wechat",
+    "name": "nosun/lumen-wechat",
     "description": "微信 SDK for Laravel",
-    "keywords": ["wechat", "weixin","laravel", "sdk"],
+    "keywords": ["wechat", "weixin","lumen", "sdk"],
     "require": {
-        "laravel/framework": ">=5.0.0",
+        "laravel/lumen-framework": ">=5.0.0",
         "overtrue/wechat": "2.0.*"
     },
     "autoload": {
@@ -28,6 +28,10 @@
         {
             "name": "overtrue",
             "email": "anzhengchao@gmail.com"
+        },
+        {
+            "name": "nosun",
+            "email": "nosun2008@126.com"
         }
     ]
 }
